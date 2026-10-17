@@ -14,9 +14,9 @@ Arch Linux system.
 > `anil0403/noobsbot-terminal`). When the Noobsbot Team takes over, both repos move to the team's existing GitHub
 > organisation **`noobs-bot`** (→ `noobs-bot/noobsbot-desktop`, `noobs-bot/noobsbot-terminal`); GitHub redirects
 > the old URLs automatically.
-> **License:** the code is **MIT OR Apache-2.0** (same as Smithay and most Rust crates; team-friendly). The derived
+> **License:** the code is **MIT** (short, permissive, the same licence Smithay uses; anyone may use, change and share it). The derived
 > "Noobsbot Glass" Kvantum/GTK themes live in `themes/` under **GPL-3.0** (WhiteSur's licence). Decided here so the
-> first commit already carries `LICENSE-MIT`, `LICENSE-APACHE` and `themes/LICENSE`.
+> repo carries `LICENSE` (MIT) from the start, and `themes/LICENSE` (GPL-3.0) once the themes exist.
 
 ---
 
@@ -1823,7 +1823,7 @@ custom-desktop-environemt/
   assets/          Phosphor symbols (SVG), noobsbot-desktop logo
   data/            noobsbot-desktop.desktop · config.toml (commented defaults) · wallpapers/ · system/ (greetd config, pam.d/noobsbot-desktop, portals.conf, UPower.conf, polkit action)
   themes/          Noobsbot Glass Kvantum + colour scheme + GTK (GPL-3.0, generated from theme.rs)
-  install.sh  LICENSE-MIT  LICENSE-APACHE  CHANGELOG.md (generated)  release-plz.toml
+  install.sh  LICENSE (MIT)  CHANGELOG.md (generated)  release-plz.toml
   .github/workflows/  ci.yml (fmt, clippy, tests) · release-plz.yml (version PR + tag) · release.yml (build, sign, publish)
 ```
 
