@@ -1281,7 +1281,7 @@ Goal: install on a fresh Arch system, log in, and use it all day.
   │                                                               │
   │                                                               │
   │                           ( ◯ )                               │  user picture 64 px circle
-  │                         Anil Shrestha                         │  Headline, white
+  │                           Your Name                           │  Headline, white
   │                  ╭───────────────────── ➜ ╮                   │  password pill, sheet material
   │                  ╰────────────────────────╯                   │  200 × 30, radius 15
   │                                                               │
@@ -1523,7 +1523,7 @@ phones (MTP), Thunderbolt docks (bolt), CPU microcode, video decoding.
   │ ● ● ●                                                                │
   │ ╭───────────────────╮                                                │
   │ │ 🔍 Search          │   Appearance                     Large Title   │
-  │ │ ( ◯ ) Anil         │                                                │
+  │ │ ( ◯ ) Your Name    │                                                │
   │ │───────────────────│   ╭───────────────────────────────────────╮    │
   │ │ 📶 Wi-Fi           │   │ Appearance   [ Light | Dark | Auto ]  │    │  grouped card rows
   │ │ ᛒ  Bluetooth       │   │ Accent       ● ● ● ● ● ● ● ●          │    │
