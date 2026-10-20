@@ -8,6 +8,12 @@ Entries are written by release-plz from Conventional Commits; don't edit release
 
 ## [Unreleased]
 
+## [0.4.1](https://github.com/anil0403/noobsbot-desktop/compare/v0.4.0...v0.4.1) - 2026-10-20
+
+### Other
+
+- *(config)* wait for both files the save thread writes
+
 ## [0.4.0](https://github.com/anil0403/noobsbot-desktop/compare/v0.3.0...v0.4.0) - 2026-10-20
 
 ### Added
