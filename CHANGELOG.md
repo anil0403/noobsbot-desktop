@@ -8,6 +8,21 @@ Entries are written by release-plz from Conventional Commits; don't edit release
 
 ## [Unreleased]
 
+## [0.4.2](https://github.com/anil0403/noobsbot-desktop/compare/v0.4.1...v0.4.2) - 2026-10-24
+
+### Fixed
+
+- *(idle)* new idle times apply without waiting for input
+- *(lock)* darken the wallpaper on every display while locked
+- *(displays)* bring back a window left mostly on an unplugged display
+
+### Other
+
+- *(vm)* stop the chipset watchdog resetting the guest after suspend
+- *(vm)* keep the GPU's framebuffers across suspend (no-soft-reset PCIe port)
+- *(vm)* relative mouse moves and drags across displays
+- *(vm)* a second display the tests can plug and unplug (HEADS=2, head.py)
+
 ## [0.4.1](https://github.com/anil0403/noobsbot-desktop/compare/v0.4.0...v0.4.1) - 2026-10-20
 
 ### Other
